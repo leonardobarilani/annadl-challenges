@@ -18,7 +18,7 @@ Image Classification
 
 [![open-Kaggle](https://img.shields.io/badge/open-Kaggle-4791CD.svg)](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/)
 
-[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/challenge1.ipynb)
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge1.ipynb)
 
 > More about our solution in [README1](README1.md)
 
@@ -42,7 +42,7 @@ Image Segmentation
 
 [![open-Codalab](https://img.shields.io/badge/open-Codalab-4791CD.svg)](https://competitions.codalab.org/competitions/27176)
 
-[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/challenge2.ipynb)
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge2.ipynb)
 
 > More about our solution in [README2](README2.md)
 
@@ -64,11 +64,11 @@ Visual Question Answering
 
 [![open-Kaggle](https://img.shields.io/badge/open-Kaggle-4791CD.svg)](https://www.kaggle.com/c/anndl-2020-vqa)
 
-[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/challenge3.ipynb) **Main Model**
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge3.ipynb) **Main Model**
 
-[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/challenge3ImageAutoencoder.ipynb) **ImageAutoencoder**
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge3ImageAutoencoder.ipynb) **ImageAutoencoder**
 
-[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/challenge3Word2VecEncodings.ipynb) **Word2VecEncoder**
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge3Word2VecEncodings.ipynb) **Word2VecEncoder**
 
 > More about our solution in [README3](README3.md)
 
