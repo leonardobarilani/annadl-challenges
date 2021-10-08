@@ -18,7 +18,9 @@ Image Classification
 
 [![open-Kaggle](https://img.shields.io/badge/open-Kaggle-4791CD.svg)](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/)
 
-[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge1.ipynb)
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge1Transfer.ipynb) **Transfer Learning**
+
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge1NonTransfer.ipynb) **Non-Transfer Learning**
 
 > More about our solution in [README1](README1.md)
 
@@ -69,6 +71,8 @@ Visual Question Answering
 [![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge3ImageAutoencoder.ipynb) **ImageAutoencoder**
 
 [![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge3Word2VecEncodings.ipynb) **Word2VecEncoder**
+
+[![open-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leonardobarilani/annadl-challenges/blob/master/challenge3GloVe.ipynb) **GloVe**
 
 > More about our solution in [README3](README3.md)
 
